@@ -1,0 +1,5 @@
+date
+echo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+python easy.py ./train_Normal1.txt ./test_Normal1.txt
+echo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+date

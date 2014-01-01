@@ -1,0 +1,7 @@
+date
+echo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+./predictIndoorOutDoor test_InOut1.txt train_OutIn2.txt.model MorePrediction2.txt
+echo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+./predict2 data1.txt train_Normal1.txt.model MorePrediction.txt
+echo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+date
