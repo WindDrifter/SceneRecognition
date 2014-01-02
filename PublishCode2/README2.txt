@@ -11,6 +11,8 @@ However, I have no idea which camera we will be using hence I am leaving it blan
 sceneDetection2(cv::Mat img):
 This method use PACT method to extract features from img. Then it will output a file as data1.txt. 
 
+commandline for testing: ./place
+
 
 Program(s):
 predict2.c
@@ -65,3 +67,11 @@ Never delete train_Normal1.txt.model(For Classify Rooms and Places) & train_OutI
 Credits:
 
 This Program using PACT (Principal Component Analysis of Census Transoform histograms) from Jianxin Wu and James M. Rehg and Liblinear-1.94 from the creators of LibSvm.
+
+Training data(s):
+
+Download link: http://www.mediafire.com/download/vjy7srhc7sfdhdd/Data.tar.gz
+
+
+
+
